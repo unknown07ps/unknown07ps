@@ -1,4 +1,4 @@
-## Competitive Programming Snapshot
+## DSA Statistics
 
 <p align="center">
   <a href="https://leetcode.com/Sagar_Prajapati1374/">
