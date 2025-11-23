@@ -1,42 +1,42 @@
-<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="330" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title { fill: #7CFF6B; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 20px; font-weight: 600; }
-    .text { fill: #C8FFC4; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; }
-    .stat-value { fill: #70FF9E; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 26px; font-weight: 700; }
-    .stat-label { fill: #C8FFC4; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 10px; }
-    .bar-label { fill: #C8FFC4; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11px; }
+    .title { fill: #7CFF6B; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 22px; font-weight: 600; }
+    .text { fill: #C8FFC4; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; }
+    .stat-value { fill: #70FF9E; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 42px; font-weight: 700; }
+    .stat-label { fill: #C8FFC4; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; }
+    .bar-label { fill: #C8FFC4; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; }
     .bar-bg { fill: #1a1f1a; }
     .bar-easy { fill: #70FF9E; }
     .bar-medium { fill: #7CFF6B; }
     .bar-hard { fill: #48FF00; }
   </style>
   
-  <rect width="500" height="200" fill="#0A0F0A" stroke="#48FF00" stroke-width="1.5" rx="6"/>
+  <rect width="500" height="330" fill="#0A0F0A" stroke="#48FF00" stroke-width="2" rx="8"/>
   
-  <text x="20" y="25" class="title">sagarprajahozi</text>
-  <text x="20" y="40" class="text">GeeksforGeeks Profile</text>
+  <text x="25" y="40" class="title">sagarprajahozi</text>
+  <text x="25" y="60" class="text">GeeksforGeeks Profile</text>
   
-  <text x="20" y="62" class="bar-label">Easy: 68</text>
-  <rect x="20" y="67" width="460" height="6" class="bar-bg" rx="3"/>
-  <rect x="20" y="67" width="100" height="6" class="bar-easy" rx="3"/>
+  <text x="25" y="95" class="bar-label">Easy: 68</text>
+  <rect x="25" y="103" width="450" height="8" class="bar-bg" rx="4"/>
+  <rect x="25" y="103" width="100" height="8" class="bar-easy" rx="4"/>
   
-  <text x="20" y="88" class="bar-label">Medium: 197</text>
-  <rect x="20" y="93" width="460" height="6" class="bar-bg" rx="3"/>
-  <rect x="20" y="93" width="290" height="6" class="bar-medium" rx="3"/>
+  <text x="25" y="138" class="bar-label">Medium: 197</text>
+  <rect x="25" y="146" width="450" height="8" class="bar-bg" rx="4"/>
+  <rect x="25" y="146" width="290" height="8" class="bar-medium" rx="4"/>
   
-  <text x="20" y="114" class="bar-label">Hard: 30</text>
-  <rect x="20" y="119" width="460" height="6" class="bar-bg" rx="3"/>
-  <rect x="20" y="119" width="44" height="6" class="bar-hard" rx="3"/>
+  <text x="25" y="181" class="bar-label">Hard: 30</text>
+  <rect x="25" y="189" width="450" height="8" class="bar-bg" rx="4"/>
+  <rect x="25" y="189" width="44" height="8" class="bar-hard" rx="4"/>
   
-  <rect x="20" y="140" width="145" height="50" fill="#0A0F0A" stroke="#48FF00" stroke-width="1.5" rx="5"/>
-  <text x="92.5" y="170" class="stat-value" text-anchor="middle">309</text>
-  <text x="92.5" y="184" class="stat-label" text-anchor="middle">Problems Solved</text>
+  <rect x="25" y="230" width="140" height="80" fill="#0A0F0A" stroke="#48FF00" stroke-width="2" rx="6"/>
+  <text x="95" y="280" class="stat-value" text-anchor="middle">309</text>
+  <text x="95" y="300" class="stat-label" text-anchor="middle">Problems Solved</text>
   
-  <rect x="177.5" y="140" width="145" height="50" fill="#0A0F0A" stroke="#48FF00" stroke-width="1.5" rx="5"/>
-  <text x="250" y="170" class="stat-value" text-anchor="middle">1159</text>
-  <text x="250" y="184" class="stat-label" text-anchor="middle">Coding Score</text>
+  <rect x="180" y="230" width="140" height="80" fill="#0A0F0A" stroke="#48FF00" stroke-width="2" rx="6"/>
+  <text x="250" y="280" class="stat-value" text-anchor="middle">1159</text>
+  <text x="250" y="300" class="stat-label" text-anchor="middle">Coding Score</text>
   
-  <rect x="335" y="140" width="145" height="50" fill="#0A0F0A" stroke="#48FF00" stroke-width="1.5" rx="5"/>
-  <text x="407.5" y="170" class="stat-value" text-anchor="middle">3</text>
-  <text x="407.5" y="184" class="stat-label" text-anchor="middle">Institute Rank</text>
+  <rect x="335" y="230" width="140" height="80" fill="#0A0F0A" stroke="#48FF00" stroke-width="2" rx="6"/>
+  <text x="405" y="280" class="stat-value" text-anchor="middle">3</text>
+  <text x="405" y="300" class="stat-label" text-anchor="middle">Institute Rank</text>
 </svg>
