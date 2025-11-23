@@ -1,4 +1,4 @@
-<svg width="500" height="330" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="320" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title { fill: #7CFF6B; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 22px; font-weight: 600; }
     .text { fill: #C8FFC4; font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; }
@@ -11,7 +11,7 @@
     .bar-hard { fill: #48FF00; }
   </style>
   
-  <rect width="500" height="330" fill="#0A0F0A" stroke="#48FF00" stroke-width="2" rx="8"/>
+  <rect width="500" height="320" fill="#0A0F0A" stroke="#48FF00" stroke-width="2" rx="8"/>
   
   <text x="25" y="40" class="title">sagarprajahozi</text>
   <text x="25" y="60" class="text">GeeksforGeeks Profile</text>
