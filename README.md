@@ -14,9 +14,9 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-###  [Athena](https://github.com/unknown07ps/Athena)
+###  <a href="https://github.com/unknown07ps/Athena">Athena</a>
 
 <a href="https://github.com/unknown07ps/Athena">
   <img src="https://img.shields.io/badge/View_Project-1A202C?style=for-the-badge&logo=github&logoColor=4FD1C5" alt="View Project"/>
@@ -25,9 +25,10 @@
 **AI Research Assistant powered by LLaMA3 for intelligent document analysis and Q&A**
 
 </td>
-<td width="50%" valign="top">
 
-###  [AI Proctoring System](https://github.com/unknown07ps/AI-Proctoring-System-YoloV8)
+<td width="33%" valign="top">
+
+###  <a href="https://github.com/unknown07ps/AI-Proctoring-System-YoloV8">AI Proctoring System</a>
 
 <a href="https://github.com/unknown07ps/AI-Proctoring-System-YoloV8">
   <img src="https://img.shields.io/badge/View_Project-1A1625?style=for-the-badge&logo=github&logoColor=A351FB" alt="View Project"/>
@@ -36,8 +37,21 @@
 **Real-time exam monitoring with YOLOv8 computer vision for cheat detection**
 
 </td>
+
+<td width="33%" valign="top">
+
+###  <a href="https://github.com/unknown07ps/url-shortner">URL Shortener API</a>
+
+<a href="https://github.com/unknown07ps/url-shortner">
+  <img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Project"/>
+</a>
+
+**High-performance URL shortening service with analytics, QR codes & caching**
+
+</td>
 </tr>
 </table>
+
 
 ##  Tech Stack & Tools
 
