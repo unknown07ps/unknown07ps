@@ -21,7 +21,7 @@
 ### <span style="color: #4FD1C5;">Athena</span>
 
 <a href="https://github.com/unknown07ps/Athena">
-  <img src="https://img.shields.io/badge/VIEW_CODE-1A202C?style=for-the-badge&logo=github&logoColor=4FD1C5" alt="View Code"/>
+  <img src="https://img.shields.io/badge/VIEW_CODE-1A202C?style=for-the-badge&logo=github&logoColor=4FD1C5" alt="View Project"/>
 </a>
 
 </div>
@@ -38,7 +38,7 @@ AI-powered research assistant using LLaMA3 for intelligent document analysis and
 
 ### <span style="color: #A351FB;">AI Proctoring System</span>
 <a href="https://github.com/unknown07ps/AI-Proctoring-System-YoloV8">
-  <img src="https://img.shields.io/badge/VIEW_CODE-1A1625?style=for-the-badge&logo=github&logoColor=A351FB" alt="View Code"/>
+  <img src="https://img.shields.io/badge/VIEW_CODE-1A1625?style=for-the-badge&logo=github&logoColor=A351FB" alt="View Project"/>
 </a>
 
 </div>
@@ -55,7 +55,7 @@ Real-time exam monitoring system with YOLOv8 computer vision for automated cheat
 
 ### <span style="color: #58A6FF;">URL Shortener API</span>
 <a href="https://github.com/unknown07ps/url-shortner">
-  <img src="https://img.shields.io/badge/VIEW_CODE-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Code"/>
+  <img src="https://img.shields.io/badge/VIEW_CODE-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Project"/>
 </a>
 
 </div>
