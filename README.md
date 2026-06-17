@@ -41,7 +41,7 @@ Production-grade RAG API with a two-level fallback chain, prompt versioning, Pro
   </a>
 </p>
 <p align="center">
-Multi-agent workflow engine — Planner → Researcher → Formatter → Critic — via a LangGraph state machine with critic-driven revision loops and full trace persistence in Redis
+Multi-agent workflow engine : Planner → Researcher → Formatter → Critic , via a LangGraph state machine with critic-driven revision loops and full trace persistence in Redis
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
