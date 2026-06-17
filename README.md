@@ -53,7 +53,7 @@ Multi-agent workflow engine : Planner → Researcher → Formatter → Critic , 
 </td>
 
 <td width="33%" valign="top">
-<h3 align="center">🔷 DistKV</h3>
+<h3 align="center">🕸️ Madonna</h3>
 <p align="center">
   <a href="https://github.com/unknown07ps/distkv">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=38bdf8" alt="View Project"/>
