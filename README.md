@@ -21,127 +21,158 @@
 
 ## Featured Projects
 
-<table cellspacing="0" cellpadding="14" border="1" rules="all" frame="box">
+<table>
 <tr>
 
-<td width="260" valign="top">
-<h3 align="center">🐍 Medusa RAG</h3>
-<p align="center">
-  <a href="https://github.com/unknown07ps/medusa-rag">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=9d8fff" alt="View Project"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</p>
-<p align="center">
-Production-grade RAG API with a two-level fallback chain, prompt versioning, Prometheus and Grafana observability, and a Redis-backed cache
-</p>
+<td width="33%" valign="top" align="center">
+
+### 🐍 Medusa RAG
+
+<a href="https://github.com/unknown07ps/medusa-rag">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=9d8fff"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+<br>
+
+Production-grade RAG API featuring two-level fallback routing, prompt versioning, observability, and Redis caching.
+
 </td>
 
-<td width="260" valign="top">
-<h3 align="center">⚡ Vulcan Engine</h3>
-<p align="center">
-  <a href="https://github.com/unknown07ps/vulcan-agent-workflow-engine">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=e05c5c" alt="View Project"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D4A017?style=flat-square&logo=anthropic&logoColor=white"/>
-</p>
-<p align="center">
-Multi-agent workflow engine (Planner, Researcher, Formatter, Critic) as a LangGraph state machine with critic-driven revision and Redis trace logs
-</p>
+<td width="33%" valign="top" align="center">
+
+### ⚡ Vulcan Engine
+
+<a href="https://github.com/unknown07ps/vulcan-agent-workflow-engine">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=e05c5c"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D4A017?style=flat-square&logo=anthropic&logoColor=white"/>
+
+<br>
+
+LangGraph multi-agent workflow engine with Planner, Researcher, Critic, and Redis execution tracing.
+
 </td>
 
-<td width="260" valign="top">
-<h3 align="center">🕸️ Madonna</h3>
-<p align="center">
-  <a href="https://github.com/unknown07ps/distkv">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=38bdf8" alt="View Project"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square&logo=apache&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/WAL-555555?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gossip_Protocol-555555?style=flat-square&logoColor=white"/>
-</p>
-<p align="center">
-Production-grade distributed key-value store in Go with WAL durability, consistent hashing (150 virtual nodes), gossip failure detection, async replication, and a browser-based monitoring UI, with zero external dependencies
-</p>
+<td width="33%" valign="top" align="center">
+
+### 🕸️ Madonna
+
+<a href="https://github.com/unknown07ps/distkv">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/WAL-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gossip_Protocol-555555?style=flat-square"/>
+
+<br>
+
+Distributed key-value store in Go featuring WAL, gossip protocol, consistent hashing, and replication.
+
 </td>
 
 </tr>
+
 <tr>
 
-<td width="260" valign="top">
-<h3 align="center">Athena</h3>
-<p align="center">
-  <a href="https://github.com/unknown07ps/Athena">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=4FD1C5" alt="View Project"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLaMA3-FF6B35?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4FD1C5?style=flat-square&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logoColor=white"/>
-</p>
-<p align="center">
-AI-powered research assistant using LLaMA3 for intelligent document analysis and contextual question answering
-</p>
+<td width="33%" valign="top" align="center">
+
+### Athena
+
+<a href="https://github.com/unknown07ps/Athena">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=4FD1C5"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLaMA3-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-4FD1C5?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
+
+<br>
+
+AI research assistant powered by LLaMA3 for document understanding, retrieval, and contextual QA.
+
 </td>
 
-<td width="260" valign="top">
-<h3 align="center">AI Proctoring System</h3>
-<p align="center">
-  <a href="https://github.com/unknown07ps/AI-Proctoring-System-YoloV8">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=A351FB" alt="View Project"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-A351FB?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>
-<p align="center">
-Real-time exam monitoring system with YOLOv8 computer vision for automated cheat detection
-</p>
+<td width="33%" valign="top" align="center">
+
+### AI Proctoring System
+
+<a href="https://github.com/unknown07ps/AI-Proctoring-System-YoloV8">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=A351FB"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-A351FB?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+<br>
+
+Real-time exam monitoring system using YOLOv8 computer vision for automated cheating detection.
+
 </td>
 
-<td width="260" valign="top">
-<h3 align="center">URL Shortener API</h3>
-<p align="center">
-  <a href="https://github.com/unknown07ps/url-shortner">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Project"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</p>
-<p align="center">
-High-performance URL shortening service with analytics tracking, QR code generation, and Redis caching
-</p>
+<td width="33%" valign="top" align="center">
+
+### URL Shortener API
+
+<a href="https://github.com/unknown07ps/url-shortner">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+<br>
+
+High-performance URL shortener with analytics, QR generation, and Redis-backed caching.
+
 </td>
 
 </tr>
@@ -150,5 +181,5 @@ High-performance URL shortening service with analytics tracking, QR code generat
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,nodejs,react,fastapi,pytorch,tensorflow,opencv,langchain,mongodb,postgres,redis,docker,kubernetes,linux,prometheus,grafana,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,nodejs,react,fastapi,pytorch,tensorflow,opencv,mongodb,postgres,redis,docker,kubernetes,linux,prometheus,grafana,git,github,vscode&theme=dark" />
 </p>
