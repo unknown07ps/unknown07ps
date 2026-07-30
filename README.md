@@ -37,9 +37,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
@@ -62,9 +59,6 @@ Production-grade RAG API featuring two-level fallback routing, prompt versioning
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D4A017?style=flat-square&logo=anthropic&logoColor=white"/>
 
@@ -87,9 +81,6 @@ LangGraph multi-agent workflow engine with Planner, Researcher, Critic, and Redi
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/WAL-555555?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gossip_Protocol-555555?style=flat-square"/>
 
@@ -116,9 +107,6 @@ Distributed key-value store in Go featuring WAL, gossip protocol, consistent has
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLaMA3-FF6B35?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-4FD1C5?style=flat-square"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
 
 <br>
@@ -140,9 +128,6 @@ AI research assistant powered by LLaMA3 for document understanding, retrieval, a
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8-A351FB?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
 <br>
@@ -164,9 +149,6 @@ Real-time exam monitoring system using YOLOv8 computer vision for automated chea
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 <br>
