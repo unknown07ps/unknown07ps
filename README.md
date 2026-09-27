@@ -160,6 +160,23 @@ High-performance URL shortener with analytics, QR generation, and Redis-backed c
 </tr>
 </table>
 
+
+## 🌐 My Portfolio
+
+<p align="center">
+
+<a href="https://unknown07ps.github.io/">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
+</a>
+
+</p>
+
+<p align="center">
+<a href="https://unknown07ps.github.io/#work">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Funknown07ps.github.io%2F%23work?w=1200" alt="Portfolio project section preview"/>
+</a>
+</p>
+
 ## Tech Stack & Tools
 
 <p align="center">
