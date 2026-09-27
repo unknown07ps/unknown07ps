@@ -165,9 +165,10 @@ High-performance URL shortener with analytics, QR generation, and Redis-backed c
 
 <p align="center">
   <a href="https://unknown07ps.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/%20EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white" alt="Explore My Portfolio"/>
+    <img src="https://img.shields.io/badge/%20EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white" alt="My Portfolio"/>
   </a>
 </p>
+
 
 <p align="center">
 <a href="https://unknown07ps.github.io/#work">
