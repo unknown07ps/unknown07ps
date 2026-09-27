@@ -1,4 +1,5 @@
 ## Data Structures and Algorithms
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -26,7 +27,7 @@
 
 <td width="33%" valign="top" align="center">
 
-### 🐍 Medusa RAG
+###  Medusa RAG
 
 <a href="https://github.com/unknown07ps/medusa-rag">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=9d8fff"/>
@@ -48,7 +49,7 @@ Production-grade RAG API featuring two-level fallback routing, prompt versioning
 
 <td width="33%" valign="top" align="center">
 
-### ⚡ Vulcan Engine
+###  Vulcan Engine
 
 <a href="https://github.com/unknown07ps/vulcan-agent-workflow-engine">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=e05c5c"/>
@@ -70,7 +71,7 @@ LangGraph multi-agent workflow engine with Planner, Researcher, Critic, and Redi
 
 <td width="33%" valign="top" align="center">
 
-### 🕸️ Madonna
+###  Madonna
 
 <a href="https://github.com/unknown07ps/distkv">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=38bdf8"/>
@@ -160,20 +161,21 @@ High-performance URL shortener with analytics, QR generation, and Redis-backed c
 </tr>
 </table>
 
-
 ## 🌐 My Portfolio
 
 <p align="center">
-
-<a href="https://unknown07ps.github.io/">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
-</a>
-
+  <a href="https://unknown07ps.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/%20EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white" alt="Explore My Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
 <a href="https://unknown07ps.github.io/#work">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Funknown07ps.github.io%2F%23work?w=1200" alt="Portfolio project section preview"/>
+  <img
+    src="https://drive.google.com/uc?export=view&id=1XbIO7srjsZTi6OAVLOzUiAPn_JN-eF2o"
+    alt="Portfolio Projects Preview"
+    width="100%"
+  />
 </a>
 </p>
 
